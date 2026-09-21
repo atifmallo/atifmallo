@@ -6,7 +6,7 @@
 
 I work on building robust multimodal AI systems that understand human signals from text, audio, and vision, especially when information is incomplete, noisy, or missing.
 
-[GitHub](https://github.com/atifmallo) · [RoME](https://github.com/atifmallo/RoME) · [Scientific Reports](https://www.nature.com/articles/s41598-026-60943-7)
+[GitHub](https://github.com/atifmallo) · [Orcid]((https://orcid.org/0009-0006-5710-8137)) ]
 
 </div>
 
