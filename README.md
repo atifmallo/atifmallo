@@ -58,12 +58,18 @@ Robust multimodal expert learning for sentiment analysis with missing modalities
 
 **Tech:** PyTorch · Transformers · Attention Networks · Multimodal Fusion
 
+Paper:
+https://www.nature.com/articles/s41598-026-60943-7
+
 Repository:
 https://github.com/atifmallo/RoME
 
 ## CEDAR
 
 Research project focused on intelligent AI learning systems.
+
+Paper:
+https://ieeexplore.ieee.org/document/11682607/
 
 Repository:
 https://github.com/atifmallo/CEDAR
